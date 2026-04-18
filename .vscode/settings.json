@@ -10,5 +10,14 @@
     "github.copilot.chat.scopeSelection": true,
     "github.copilot.chat.terminalChatLocation": "terminal",
     "editor.formatOnSave": true,
-    "github.copilot.chat.gpt54LargePrompt.enabled": true
+    "github.copilot.chat.gpt54LargePrompt.enabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
 }
