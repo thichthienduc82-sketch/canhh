@@ -1,6 +1,7 @@
 {
-    "editor.experimentalGpuAcceleration": "off",
+    "editor.experimentalGpuAcceleration": "on",
     "terminal.integrated.gpuAcceleration": "on",
     "terminal.integrated.enableImages": true,
-    "github.copilot.chat.copilotMemory.enabled": true
+    "github.copilot.chat.copilotMemory.enabled": true,
+    "python.analysis.enableParallelIndexing": true
 }
