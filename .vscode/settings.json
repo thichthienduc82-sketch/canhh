@@ -8,5 +8,7 @@
     "github.copilot.chat.claudeAgent.allowDangerouslySkipPermissions": true,
     "github.copilot.chat.rateLimitAutoSwitchToAuto": true,
     "github.copilot.chat.scopeSelection": true,
-    "github.copilot.chat.terminalChatLocation": "terminal"
+    "github.copilot.chat.terminalChatLocation": "terminal",
+    "editor.formatOnSave": true,
+    "github.copilot.chat.gpt54LargePrompt.enabled": true
 }
