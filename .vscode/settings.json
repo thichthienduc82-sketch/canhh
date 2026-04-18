@@ -3,5 +3,10 @@
     "terminal.integrated.gpuAcceleration": "on",
     "terminal.integrated.enableImages": true,
     "github.copilot.chat.copilotMemory.enabled": true,
-    "python.analysis.enableParallelIndexing": true
+    "python.analysis.enableParallelIndexing": true,
+    "github.copilot.chat.agent.autoFix": true,
+    "github.copilot.chat.claudeAgent.allowDangerouslySkipPermissions": true,
+    "github.copilot.chat.rateLimitAutoSwitchToAuto": true,
+    "github.copilot.chat.scopeSelection": true,
+    "github.copilot.chat.terminalChatLocation": "terminal"
 }
